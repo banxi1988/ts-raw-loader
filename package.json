@@ -1,6 +1,6 @@
 {
   "name": "ts-raw-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack raw loader implemented with TypeScript",
   "main": "./dist/index.js",
   "typeing": "./dist/types/index.d.ts",
