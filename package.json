@@ -1,0 +1,27 @@
+{
+  "name": "ts-raw-loader",
+  "version": "1.0.0",
+  "description": "webpack raw loader implemented with TypeScript",
+  "main": "./dist/index.js",
+  "typeing": "./dist/types/index.d.ts",
+  "scripts": {
+    "test": "jest",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banxi1988/ts-raw-loader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banxi1988/ts-raw-loader/issues"
+  },
+  "homepage": "https://github.com/banxi1988/ts-raw-loader#readme",
+  "devDependencies": {
+    "@types/webpack": "^4.4.11",
+    "jest": "^23.5.0",
+    "typescript": "^3.0.1"
+  }
+}
